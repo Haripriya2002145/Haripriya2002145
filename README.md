@@ -5,10 +5,11 @@ I'm delighted to be on GitHub Pro. I'm currently pursuing a bachelor's degree in
 - 👋 I have learnt Python, C/C++, HTML5, CSS and Javascript
 - 👀 I’m interested in Competitive coding, Web Development, AI ML, Blockchain and Designing
 - 🌱 I’m currently learning Web Development 
-- 💞️ I’m looking to collaborate on projects 
-- 📫 Reach me in 
+- 💞️ I’m looking to collaborate on projects in my interests
+
 
 <!---
+<!---- 📫 Reach me in --->
 Haripriya2002145/Haripriya2002145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
