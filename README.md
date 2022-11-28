@@ -9,7 +9,7 @@ I'm delighted to be on GitHub Pro. I'm currently pursuing a bachelor's degree in
 
 
 <!---
-<!---- 📫 Reach me in --->
-Haripriya2002145/Haripriya2002145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+📫 Haripriya2002145/Haripriya2002145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
