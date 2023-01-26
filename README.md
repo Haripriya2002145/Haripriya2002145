@@ -7,7 +7,7 @@ I'm delighted to be on GitHub Pro. I'm currently pursuing a bachelor's degree in
 - 🌱 I’m currently learning Web Development 
 - 💞️ I’m looking to collaborate on projects in my interests
 
---Technologies and tools:
+
 
 <!---
 
