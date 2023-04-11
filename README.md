@@ -1,7 +1,7 @@
 Hey Everyone!✨
 
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/mrurbinaco-mr-urbina-office-paTz7UZbPfTZFRYnnB/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="100"/>
 </div>
 
 
