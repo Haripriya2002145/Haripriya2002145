@@ -1,5 +1,9 @@
 Hey Everyone!✨
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 I'm delighted to be on GitHub Pro. I'm currently pursuing a bachelor's degree in Computer Science at SRM University. 
 
 - 👋 I have learnt Python, C/C++, HTML5, CSS and Javascript
