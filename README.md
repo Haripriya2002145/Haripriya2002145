@@ -1,18 +1,21 @@
-Hey Everyone!✨
+<h1>Hey Everyone 👋 I'm Haripriya</h1>
+<h4>I'm currently pursuing a bachelor's degree in Computer Science Engineering at <a href="https://srmrmp.edu.in/"><i>SRM Institute of Science and Technology, Ramapuram</i></a>. I'm an enthusiastic Web Developer, Competitive Coder, UI/UX Designer and speaker.</h4>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="400"/>
-</div>
+<div align="center">
 
+<img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" align="right" width="320"/>
 
-I'm delighted to be on GitHub Pro. I'm currently pursuing a bachelor's degree in Computer Science at SRM University. 
+---
 
-- 👋 I have learnt Python, C/C++, HTML5, CSS and Javascript
+- 👋 I have learnt Python, C/C++, HTML5, CSS, and Javascript
 - 👀 I’m interested in Competitive coding, Web Development, AI ML, Blockchain and UI UX Designing
 - 🌱 I’m currently learning Web Development 
 - 💞️ I’m looking to collaborate on projects in my interests
+- 🌱 Ask me about <b>Python, HTML5, CSS, Javascript, nodejs, expressjs, reactjs, mongoDB, mongoose, sql server, MySql, sqlite3, sass and similar</b>
 
+---
 
+</div>
 
 <!---
 
