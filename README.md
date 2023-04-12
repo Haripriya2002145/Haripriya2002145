@@ -1,7 +1,7 @@
 <h1>Hey Everyone 👋 I'm Haripriya</h1>
 <h4>I'm currently pursuing a bachelor's degree in Computer Science Engineering at <a href="https://srmrmp.edu.in/"><i>SRM Institute of Science and Technology, Ramapuram</i></a>. I'm an enthusiastic Web Developer, Competitive Coder, UI/UX Designer and speaker.</h4>
 
-<div align="center">
+
 
 <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" align="right" width="320"/>
 
@@ -15,7 +15,6 @@
 
 ---
 
-</div>
 
 <!---
 
