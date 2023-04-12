@@ -18,6 +18,8 @@
 
 <!---
 
+I'm happy to connect on GitHub where I can explore and learn out of the box technologies, and implement them.
+
 📫 Haripriya2002145/Haripriya2002145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
